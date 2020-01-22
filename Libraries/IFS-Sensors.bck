@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS18B20+
+D Temperature sensor, ±5ºC, -55°C to +125°C , TO-92
+K Temperature,  Sensor, DS18B20+
+F https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
+$ENDCMP
+#
+#End Doc Library

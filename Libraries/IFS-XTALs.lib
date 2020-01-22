@@ -1,0 +1,106 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 7A-8.000MAAJ
+#
+DEF ~7A-8.000MAAJ X 0 10 N Y 1 F N
+F0 "X" 0 100 50 H V C CNN
+F1 "7A-8.000MAAJ" 0 -200 50 H I C CNN
+F2 "IFS-XTALs:XTALFDN50X32X12N" 0 -300 50 H I C CNN
+F3 "http://www.txccrystal.com/images/pdf/7a.pdf" 50 -600 50 H I C CNN
+F4 "717-7A-8.000MAAJ" 0 -800 50 H I C CNN "Distributor Part Number"
+F5 "7A-8.000MAAJ" 50 -500 50 H I C CNN "Part Number"
+F6 "http://www.mouser.es/ProductDetail/TXC-Corporation/7A-8000MAAJ-T/?qs=AbXXCOATRpiPadQW%252b%2F0AoA%3D%3D" 0 -900 50 H I C CNN "Distributor Link"
+F7 "Mouser" 0 -700 50 H I C CNN "Distributor Name"
+F8 "TXC" 0 -400 50 H I C CNN "Manufacturer Name"
+F9 "8MHz" 0 -100 50 H V C CNN "E.Value"
+$FPLIST
+ XTALDFN50X32X12N
+$ENDFPLIST
+DRAW
+S -75 -50 -75 50 0 1 20 N
+S -50 50 50 -50 0 1 0 f
+S 75 -50 75 50 0 1 20 N
+X ~ 1 -150 0 75 R 40 40 1 1 P
+X ~ 2 150 0 75 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CFPX-217
+#
+DEF ~CFPX-217 X 0 10 N Y 1 F N
+F0 "X" 0 100 50 H V C CNN
+F1 "CFPX-217" 0 -200 50 H I C CNN
+F2 "IFS-XTALs:XTALDFN32X15X09N" 0 -300 50 H I C CNN
+F3 "http://www.iqdfrequencyproducts.com/products/details/cfpx-217-3-30.pdf" 50 -600 50 H I C CNN
+F4 "2449398" 0 -800 50 H I C CNN "Distributor Part Number"
+F5 "CFPX-217" 50 -500 50 H I C CNN "Part Number"
+F6 "http://uk.farnell.com/iqd-frequency-products/lfxtal009678/crystal-32-768khz-12-5pf-smd/dp/2449398/false" 0 -900 50 H I C CNN "Distributor Link"
+F7 "Farnell" 0 -700 50 H I C CNN "Distributor Name"
+F8 "IQD" 0 -400 50 H I C CNN "Manufacturer Name"
+F9 "32.768KHz" 0 -100 50 H V C CNN "E.Value"
+$FPLIST
+ XTALDFN32X15X09N
+$ENDFPLIST
+DRAW
+S -75 -50 -75 50 0 1 20 N
+S -50 50 50 -50 0 1 0 f
+S 75 -50 75 50 0 1 20 N
+X ~ 1 -150 0 75 R 40 40 1 1 P
+X ~ 2 150 0 75 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# XTAL-32.768kHz-Cilindrical-SMD
+#
+DEF ~XTAL-32.768kHz-Cilindrical-SMD X 0 10 N Y 1 F N
+F0 "X" 0 100 50 H V C CNN
+F1 "XTAL-32.768kHz-Cilindrical-SMD" 0 -300 50 H I C CNN
+F2 "IFS-XTALs:Cilindrical-SMD-H" 0 -200 50 H I C CNN
+F3 "" -125 50 60 V V C CNN
+F4 "Mouser" 0 -400 60 H I C CNN "Distributor Name"
+F5 "32.678KHz" 0 -100 50 H V C CNN "E.Value"
+DRAW
+S -75 -50 -75 50 0 1 20 N
+S -50 50 50 -50 0 1 0 f
+S 75 -50 75 50 0 1 20 N
+X ~ 1 -150 0 75 R 40 40 1 1 P
+X ~ 2 150 0 75 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# XTAL-8MHz-HC-49US
+#
+DEF ~XTAL-8MHz-HC-49US X 0 10 N Y 1 F N
+F0 "X" 0 100 50 H V C CNN
+F1 "XTAL-8MHz-HC-49US" 0 -300 50 H I L CNN
+F2 "IFS-XTALs:HC-49US" 0 -400 30 H I L CNN
+F3 "" -125 50 60 V V C CNN
+F4 "8MHz" 0 -100 50 H V C CNN "E.Value"
+DRAW
+S -75 -50 -75 50 0 1 20 N
+S -50 50 50 -50 0 1 0 f
+S 75 -50 75 50 0 1 20 N
+X ~ 1 -150 0 75 R 40 40 1 1 P
+X ~ 2 150 0 75 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# XTAL-8MHz-HC-49US-SMD
+#
+DEF ~XTAL-8MHz-HC-49US-SMD X 0 10 N Y 1 F N
+F0 "X" 0 100 50 H V C CNN
+F1 "XTAL-8MHz-HC-49US-SMD" 0 -300 50 H I L CNN
+F2 "IFS-XTALs:HC-49US-SMD" 0 -400 30 H I L CNN
+F3 "" -125 50 60 V V C CNN
+F4 "8MHz" 0 -100 50 H V C CNN "E.Value"
+DRAW
+S -75 -50 -75 50 0 1 20 N
+S -50 50 50 -50 0 1 0 f
+S 75 -50 75 50 0 1 20 N
+X ~ 1 -150 0 75 R 40 40 1 1 P
+X ~ 2 150 0 75 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

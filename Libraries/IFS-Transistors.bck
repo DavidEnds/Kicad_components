@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBT2222A
+D 40V, 500mA, SOT23-3
+K MMBT2222A, 2N2222, transistor, SMD, SOT23-3
+$ENDCMP
+#
+#End Doc Library

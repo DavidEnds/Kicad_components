@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8834PWP
+D DRV8834PWP
+K Motor controller
+F http://www.ti.com/lit/ds/symlink/drv8834.pdf
+$ENDCMP
+#
+#End Doc Library

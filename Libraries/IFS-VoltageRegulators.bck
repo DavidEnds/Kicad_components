@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM317K
+D Linear Adjustable Regulator, 1.2-37V, 1.5A
+K LM317K, Linear Adjustable Regulator, TO-3
+F http://www.ti.com/lit/ds/symlink/lm117.pdf
+$ENDCMP
+#
+$CMP LM7805CT
+D Linear Regulator 5V, 1A
+K Linear Regulator, 7805
+F http://www.ti.com/lit/ds/symlink/lm7805c.pdf
+$ENDCMP
+#
+$CMP MCP1754ST-3302ECB
+D Linear Regulator. 3.3V, 150mA, LDO, SOT23
+K Linear Regulator, LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf
+$ENDCMP
+#
+$CMP TL1963A-33KTTR
+D LDO, 3,3V, 1,5A, TO263-5
+K TL1963A-33KTTR, linear regulator, LDO
+F http://www.ti.com/lit/ds/symlink/tl1963a-33.pdf
+$ENDCMP
+#
+#End Doc Library

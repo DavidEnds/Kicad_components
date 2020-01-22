@@ -1,0 +1,90 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1x16x2.54-Pin-Header-F-TH-V
+D 1x16x2.54 Pin Header F TH V
+K 1x16, 2.54, Header, Female, TH, Vertical
+$ENDCMP
+#
+$CMP 1x17x2.54-Pin-Header-M-TH-V
+D 1x17x2.54 Pin Header M TH V
+K 1x17, 2.54, Header, Male, TH, Vertical
+$ENDCMP
+#
+$CMP 1x2x2.54-Pin-Header-M-TH-V
+D 1x2x2.54 Pin Header M TH V
+K 1x2, 2.54, Header, Male, TH, Vertical
+$ENDCMP
+#
+$CMP 1x4x2.54-Pin-Header-M-TH-V
+D 1x4x2.54 Pin Header M TH V
+K 1x4, 2.54, Header, Male, TH, Vertical
+$ENDCMP
+#
+$CMP 1x5x2.54-Pin-Header-M-TH-V
+D 1x5x2.54 Pin Header M TH V
+K 1x5, 2.54, Header, Male, TH, Vertical
+$ENDCMP
+#
+$CMP 2x10x2.54-Pin-Header-F-TH-H
+D 2x10x2.54 Pin Header F TH H
+K 2x10, 2.54, Header, Female, TH, Horizontal, 90
+$ENDCMP
+#
+$CMP 2x5
+D 2x5 Connector
+K 2x5, connector
+$ENDCMP
+#
+$CMP FS1536
+D FS1536, Spade, TH, 6,3x0,8
+K Spade, Male, TH, Vertical
+F http://www.tme.eu/es/Document/5b215b2bf9e7e6345794b512f698bad7/DJ6110-6.3X0.8.pdf
+$ENDCMP
+#
+$CMP FTSH-105-01-L-DV
+D FTSH-105-01-L-DV
+K 2x5, connector
+$ENDCMP
+#
+$CMP IDC10-2.54-TH-V
+D IDC10-2.54-TH-V
+K 2x5, connector, IDC10, vertical, TH
+$ENDCMP
+#
+$CMP IDC16-2.54-TH-V
+D IDC16-2.54-TH-V
+K 2x8, connector, IDC16, vertical, TH
+$ENDCMP
+#
+$CMP IDC18-2.54-TH-V
+D IDC18-2.54-TH-V
+K 2x9, connector, IDC16, vertical, TH
+$ENDCMP
+#
+$CMP IDC18-2.54-V-TH
+D IDC18-2.54-V-TH
+K 2x9, connector, IDC16, vertical, TH
+$ENDCMP
+#
+$CMP KF2510-A-2P-M-TH-V
+D KF2510-A-2P-M-TH-V
+K KF2510, 1x2, 2.54, Header, Male, TH, Vertical
+$ENDCMP
+#
+$CMP KF2510-A-3P-M-TH-V
+D KF2510-A-3P-M-TH-V
+K KF2510, 1x3, 2.54, Header, Male, TH, Vertical
+$ENDCMP
+#
+$CMP KF2510-A-4P-M-TH-V
+D KF2510-A-4P-M-TH-V
+K KF2510, 1x4, 2.54, Header, Male, TH, Vertical
+$ENDCMP
+#
+$CMP MOLEX-95501-2441
+D RJ9 4P4C MOLEX 95501-2441
+K RJ9, 4P4C, MOLEX, 95501-2441
+F http://www.molex.com/pdm_docs/sd/955012441_sd.pdf
+$ENDCMP
+#
+#End Doc Library

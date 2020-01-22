@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM386N-1
+D OpAmp, Audio, DIP8-300
+K LM386, OpAmp, Audio, DIP8-300
+F http://www.ti.com/lit/ds/symlink/lm386.pdf
+$ENDCMP
+#
+$CMP uA741CP
+D OpAmp, DIP8-300
+K uA741, OpAmp, DIP8-300
+F http://www.ti.com/lit/ds/symlink/ua741.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM555CN
+D Timer, DIP8-300
+K LM555, Timer, DIP8-300
+F http://www.ti.com/lit/ds/symlink/lm555.pdf
+$ENDCMP
+#
+#End Doc Library

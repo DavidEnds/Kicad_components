@@ -1,0 +1,55 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4001
+D 1N4001
+K 1N4001, diode, rectifier
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP CMS02
+D Diode, Schottky, M-FLAT, 30V, 1,5A
+K CMS02, diode, Schottky, M-FLAT
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=3129&prodName=CMS02
+$ENDCMP
+#
+$CMP LED-Green-300
+D LED, Green, 3mm, TH
+K LED, Green, 3mm, TH
+$ENDCMP
+#
+$CMP LED-Green-500
+D LED, Green, 5mm, TH
+K LED, Green, 5mm, TH
+$ENDCMP
+#
+$CMP LED-Red-500
+D LED, Red, 5mm, TH
+K LED, Red, 5mm, TH
+$ENDCMP
+#
+$CMP LED-SMD-0603-Blue-Generic
+D LED, Blue, 0603, Generic
+K LED, Blue, 0603, Generic
+$ENDCMP
+#
+$CMP LED-SMD-0603-Green-Generic
+D LED, Green, 0603, Generic
+K LED, Green, 0603, Generic
+$ENDCMP
+#
+$CMP LED-SMD-0603-Red-Generic
+D LED, Red, 0603, Generic
+K LED, Red, 0603, Generic
+$ENDCMP
+#
+$CMP LED-SMD-0603-Yellow-Generic
+D LED, Yellow, 0603, Generic
+K LED, Yellow, 0603, Generic
+$ENDCMP
+#
+$CMP LTST-C193TBKT-5A
+D LED, Blue, 0603, Generic
+K LED, Blue, 0603, Generic
+$ENDCMP
+#
+#End Doc Library

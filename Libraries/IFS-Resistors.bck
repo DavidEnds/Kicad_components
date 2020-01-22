@@ -1,0 +1,104 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BOURNS-3306F-1-103
+D 10K, variable, potentiometer, TH
+K BOURNS, 3306F-1-10310K, variable, potentiometer, TH
+$ENDCMP
+#
+$CMP BOURNS-3306F-1-201
+D 200R, variable, potentiometer, TH
+K BOURNS, 3306F-1-201, Variable resistor, 200R, potentiometer, TH
+$ENDCMP
+#
+$CMP BOURNS-3364W-1-103E
+D 10K, variable, potentiometer, SMD
+K BOURNS, 3364W-1-103E, 10K, variable, potentiometer, SMD
+$ENDCMP
+#
+$CMP ERJ-3EKF3300V
+D 330, 1%, 75V, 100mW, 0603
+K Resistor, 330
+F http://industrial.panasonic.com/lecs/www-data/pdf/AOA0000/AOA0000CE1.pdf
+$ENDCMP
+#
+$CMP ERJ-3EKF4702V
+D 47K, 1%, 75V, 100mW, 0603
+K Resistor, 47K
+F http://industrial.panasonic.com/lecs/www-data/pdf/AOA0000/AOA0000CE1.pdf
+$ENDCMP
+#
+$CMP ERJ-6GEYJ473V
+D 47K, 5%, 150V, 125mW, 0805
+K Resistor, 47K
+F http://industrial.panasonic.com/lecs/www-data/pdf/AOA0000/AOA0000CE1.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor, Generic
+K Resistor, Generic
+$ENDCMP
+#
+$CMP RC0603FR-0710K
+D 10K, 1%, 50V, 100mW, 200PPM, 0603
+K Resistor, 47K, RC0603FR-0710KL
+F http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf
+$ENDCMP
+#
+$CMP RC0603FR-071ML
+D 1M, 1%, 50V, 100mW, 0603
+K Resistor, 1M, RC0603FR-071ML
+$ENDCMP
+#
+$CMP RC0603FR-07390RL
+D 390, 1%, 50V, 100mW, 0603
+K Resistor, 390, 1%, 50V, 100mW, 0603, RC0603FR-07390RL
+F http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_1.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0747KL
+D 47K, 1%, 50V, 100mW, 100PPM, 0603
+K Resistor, 47K, RC0603FR-0747KL
+F http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0747L
+D 47, 1%, 50V, 100mW, 0603
+K Resistor, 47, RC0603FR-0747L
+$ENDCMP
+#
+$CMP RC0805JR-0733RL
+D 33, 5%, 150V, 125mW, 0805
+K Resistor, 33, RC0805JR-0733RL
+F http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L-3.pdf
+$ENDCMP
+#
+$CMP RESC3216-1R2
+D 1R2, 5%, 150V, 250mW, 1206
+K Resistor, 1R2
+$ENDCMP
+#
+$CMP RESC3216-1R6
+D 1R6, 5%, 150V, 500mW, 1206
+K Resistor, 1R6
+F http://industrial.panasonic.com/lecs/www-data/pdf/AOA0000/AOA0000CE1.pdf
+$ENDCMP
+#
+$CMP WCR0805-10KFI
+D 10K, 1%, 150V, 125mW, 0805
+K Resistor, 10K
+F http://www.ttelectronicsresistors.com/datasheets/WCR.pdf
+$ENDCMP
+#
+$CMP WCR0805-1K0FI
+D 1K, 1%, 150V, 125mW, 0805
+K WCR0805-1K0FI, Resistor, 1K
+F http://www.ttelectronicsresistors.com/datasheets/WCR.pdf
+$ENDCMP
+#
+$CMP WCR0805-330RFI
+D 330, 1%, 150V, 125mW, 0805
+K Resistor, 330, WCR0805-330RFI
+F http://www.ttelectronicsresistors.com/datasheets/WCR.pdf
+$ENDCMP
+#
+#End Doc Library

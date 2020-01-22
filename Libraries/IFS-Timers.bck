@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM555CN
+D OpAmp, Audio, DIP8-300
+K LM386, OpAmp, Audio, DIP8-300
+F http://www.ti.com/lit/ds/symlink/lm386.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK22FN512VLH12
+D MK22FN512VLH12, LQFP64
+K MK22FN512VLH12, Freescale, Kinetis LQFP64, microcontroller
+F http://cache.freescale.com/files/microcontrollers/doc/data_sheet/K22P121M120SF7.pdf
+$ENDCMP
+#
+$CMP MKL05Z32VFK4
+D MKL05Z32VFK4, QFN24PWP
+K Kinetis, MKL05, microcontroller, QFN24PWP
+F http://cache.freescale.com/files/32bit/doc/data_sheet/KL05P48M48SF1.pdf
+$ENDCMP
+#
+$CMP MSP430F2002IPW
+D MSP430F2002IPW, TSSOP14
+K MSP430, MSP430F2002, microcontroller, TSSOP14
+F http://www.ti.com/lit/ds/slas491i/slas491i.pdf
+$ENDCMP
+#
+$CMP MSP430F2002TN
+D MSP430F2002TN, DIP14
+K MSP430, MSP430F2002, microcontroller, DIP14
+F http://www.ti.com/lit/ds/slas491i/slas491i.pdf
+$ENDCMP
+#
+$CMP MSP430G2553IN20
+D MSP430G2553IN20, DIP20
+K MSP430, MSP430G2553IN20, microcontroller, DIP20-300
+F http://www.ti.com/lit/ds/symlink/msp430g2553.pdf
+$ENDCMP
+#
+$CMP PIC16F1847-I/P
+D PIC16F1847-I/P, DIP18-300
+K PIC16F1847-I/P, microcontroller, DIP18-300
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001453E.pdf
+$ENDCMP
+#
+$CMP PIC18F4550-I/PT
+D PIC18F4550, LQFP44
+K Microchip, PIC18F4550, LQFP44
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39632e.pdf
+$ENDCMP
+#
+#End Doc Library

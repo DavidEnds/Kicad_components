@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PEC11R
+D PEC11R encoder with switch
+K PEC11R, encoder, switch
+$ENDCMP
+#
+$CMP RP900308
+D RP900308 relay
+K RP900308, relay
+$ENDCMP
+#
+$CMP SRD-xxVDC-SL-C
+D SONGLE SRD-xxVDC-SL-C
+K SONGLE SRD-xxVDC-SL-C
+F https://www.ghielectronics.com/downloads/man/20084141716341001RelayX1.pdf
+$ENDCMP
+#
+#End Doc Library

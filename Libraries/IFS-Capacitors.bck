@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0603N120F500NT
+D 12pF, 50V, 1%, NPO, 0603
+K Cap, SMD, chip, 12pF
+$ENDCMP
+#
+$CMP 4.7uF
+D 4.7uF, 1206
+K Cap, SMD, chip, 4.7uF
+$ENDCMP
+#
+$CMP C
+D Capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP C0603C104K5RACTU
+D 100nF, 50V, 10%, X7R, 0603
+K Cap, SMD, chip, 100nF, C0603C104K5RACTU
+F http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf
+$ENDCMP
+#
+$CMP C0805C104J5RACTU
+D 100nF, 50V, X7R, 0805
+K Cap, SMD, chip, 100nF
+$ENDCMP
+#
+$CMP C1608X5R1H105K080AB
+D 1uF, 50V, 10%, X5R, 0603, TDK
+K Cap, SMD, chip, 1uF
+F http://www.tdk.com/pdf/TDKMLCCCapRange.pdf
+$ENDCMP
+#
+$CMP CC-100N
+D 100nF, 50V, Y5V, -25...85ºC, Disc 5x2.5-2.5
+K SRPassives CC-100N, Cap, SMD, chip, 100nF
+F http://www.tme.eu/en/Document/e69911e065ed5e1d0ce354af6c563ca3/CC-4.7.pdf
+$ENDCMP
+#
+$CMP CL10B105KO8NNNC
+D 1uF, 16V, 10%, X7R, 0603
+K Cap, SMD, chip, 1uF
+F http://www.samsungsem.com/global/support/library/product-catalog/__icsFiles/afieldfile/2014/11/13/MLCC.pdf
+$ENDCMP
+#
+$CMP CL10B225KQ8NNNC
+D 2.2uF, 6.3V, 10%, X7R, 0603
+K Cap, SMD, chip, 2.2uF
+F http://www.samsungsem.com/global/support/library/product-catalog/__icsFiles/afieldfile/2014/11/13/MLCC.pdf
+$ENDCMP
+#
+$CMP CL10C102JB8NNNC
+D 1nF, 50V, 5%, C0G, 0603
+K Capacitor, SMD, chip,1nF
+F http://www.samsungsem.com/global/support/library/product-catalog/__icsFiles/afieldfile/2014/11/13/MLCC.pdf
+$ENDCMP
+#
+$CMP CL10C220JB8NNNC
+D 22pF, 50V, 5%, C0G, 0603
+K Capacitor, SMD, chip, 22pF
+$ENDCMP
+#
+$CMP CL21A106KOQNNNF
+D 10uF, 16V, X5R, 10%, 0805
+K Cap, SMD, chip, 10uF
+F http://www.samsungsem.com/global/support/library/product-catalog/__icsFiles/afieldfile/2014/11/13/MLCC.pdf
+$ENDCMP
+#
+$CMP EEU-FR1C221
+D 220uF, 16V, 105ºC, 113mOhm, Elec 6.3x11.2
+K Panasonic EEU-FR1C221, Cap, Electrolityc, 220uF
+F http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000CE132.pdf
+$ENDCMP
+#
+$CMP GRM40X7R103K50C550
+D 10nF, 50V, X7R, 0805
+K Cap, SMD, chip, 10nF
+$ENDCMP
+#
+$CMP UWR1A101MCL1GB
+D 100uF, 10V, 20%, 85ºC, Elec 5x5.4
+K NICHICON UWR1A101MCL1GB, Cap, Electrolityc, 100uF
+F http://www.nichicon.co.jp/english/products/pdfs/e-wx.pdf
+$ENDCMP
+#
+#End Doc Library
